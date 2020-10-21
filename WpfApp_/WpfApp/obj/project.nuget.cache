@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfHJYH06d+5jVpPiXmh6MV+oTkr1V5iP2wlbJamfcGv7yFvIXo0JS+Hwp+hlohDwRZWAbZYA8iGzGO3lYl5OOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sushil\\Desktop\\Projects\\WpfApp\\WpfApp\\WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sushil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
