@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWg1ElHrdL/ICcb+R48t4XKbWdAujyxySU+NVJyFOKz0jpcbJKTx3BkJAeW6ldMvNXpq6CvWm/cdUt97QMVSbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sushil\\Desktop\\Projects\\GoogleScraper\\WpfApp.HtmlParser\\WpfApp.HtmlParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sushil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
