@@ -60,7 +60,7 @@ namespace WpfApp.ViewModel
         public string SearchKey
         {
             get { return searchKey; }
-            set { searchKey = value; NotifyPropertyChanged(SearchKey); }
+            set { searchKey = value; NotifyPropertyChanged("SearchKey"); }
         }
 
         private string searchURL = "https://www.smokeball.com.au/";
@@ -80,7 +80,7 @@ namespace WpfApp.ViewModel
         public string Ranks
         {
             get { return ranks; }
-            private set { ranks = value; NotifyPropertyChanged(Ranks); }
+            private set { ranks = value; NotifyPropertyChanged("Ranks"); }
         }
         #endregion
     }
